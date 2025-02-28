@@ -53,7 +53,7 @@
     "@cardano-ogmios/schema": "^6.5.0",
     "@maestro-org/typescript-sdk": "^1.6.3",
     "@minswap/tiny-invariant": "^1.2.0",
-    "@spacebudz/lucid": "npm:@jsr/spacebudz__lucid@^0.20.4",
+    "@spacebudz/lucid": "^0.10.7",
     "big.js": "^6.2.1",
     "bignumber.js": "^9.1.2",
     "exponential-backoff": "^3.1.1",

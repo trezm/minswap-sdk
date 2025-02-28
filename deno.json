@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "build": "deno run -A npm:rollup -c rollup.config.js"
+  },
+  "imports": {
+    "@spacebudz/lucid": "npm:@spacebudz/lucid@0.10.7"
+  }
+}

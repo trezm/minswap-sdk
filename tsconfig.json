@@ -27,4 +27,7 @@
     "examples",
     "test"
   ],
+  "deno": {
+    "enable": true
+  }
 }
