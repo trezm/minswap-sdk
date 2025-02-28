@@ -3,6 +3,16 @@
     "build": "deno run -A npm:rollup -c rollup.config.js"
   },
   "imports": {
-    "@spacebudz/lucid": "npm:@spacebudz/lucid@0.10.7"
+    "@blockfrost/blockfrost-js": "npm:@blockfrost/blockfrost-js@^6.0.0",
+    "@cardano-ogmios/client": "npm:@cardano-ogmios/client@^6.11.2",
+    "@cardano-ogmios/schema": "npm:@cardano-ogmios/schema@^6.11.2",
+    "@maestro-org/typescript-sdk": "npm:@maestro-org/typescript-sdk@^1.6.3",
+    "@spacebudz/lucid": "jsr:@spacebudz/lucid@^0.20.6",
+    "big.js": "npm:big.js@^6.2.2",
+    "bignumber.js": "npm:bignumber.js@^9.1.2",
+    "exponential-backoff": "npm:exponential-backoff@^3.1.2",
+    "ioredis": "npm:ioredis@^5.5.0",
+    "remeda": "npm:remeda@^2.21.0",
+    "sha3": "npm:sha3@^2.1.4"
   }
 }
